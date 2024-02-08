@@ -1,3 +1,3 @@
 # Ozzy
 Ozzy
-![image](./certificate.png)
+![image](./reports/certificate.png)
